@@ -1,3 +1,21 @@
+body {
+    font-family: sans-serif;
+}
+.w-100 {
+    width: 100%;
+}
+.d-flex {
+    display: flex;
+}
+.justify-content-center {
+    justify-content: center;
+}
+.justify-content-between {
+    justify-content: space-between;
+}
+.align-items-center {
+    align-items: center;
+}
 .leaderboard-content {
     width: 250px;
     margin-top: 50px;
